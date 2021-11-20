@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg 
+ viewBox="0 0 1280 720"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+
+<title>Gnuplot</title>
+<desc>Produced by GNUPLOT 4.6 patchlevel 2 </desc>
+
+<g id="gnuplot_canvas">
+
+<rect x="0" y="0" width="1280" height="720" fill="none"/>
+<defs>
+
+	<circle id='gpDot' r='0.5' stroke-width='0.5'/>
+	<path id='gpPt0' stroke-width='0.222' stroke='currentColor' d='M-1,0 h2 M0,-1 v2'/>
+	<path id='gpPt1' stroke-width='0.222' stroke='currentColor' d='M-1,-1 L1,1 M1,-1 L-1,1'/>
+	<path id='gpPt2' stroke-width='0.222' stroke='currentColor' d='M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1'/>
+	<rect id='gpPt3' stroke-width='0.222' stroke='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<rect id='gpPt4' stroke-width='0.222' stroke='currentColor' fill='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<circle id='gpPt5' stroke-width='0.222' stroke='currentColor' cx='0' cy='0' r='1'/>
+	<use xlink:href='#gpPt5' id='gpPt6' fill='currentColor' stroke='none'/>
+	<path id='gpPt7' stroke-width='0.222' stroke='currentColor' d='M0,-1.33 L-1.33,0.67 L1.33,0.67 z'/>
+	<use xlink:href='#gpPt7' id='gpPt8' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt7' id='gpPt9' stroke='currentColor' transform='rotate(180)'/>
+	<use xlink:href='#gpPt9' id='gpPt10' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt3' id='gpPt11' stroke='currentColor' transform='rotate(45)'/>
+	<use xlink:href='#gpPt11' id='gpPt12' fill='currentColor' stroke='none'/>
+</defs>
+<g style="fill:none; color:white; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
+</g>
+<g style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
+	<path stroke='black'  d='M63.6,662.4 L72.6,662.4  h0.01'/>	<g transform="translate(55.3,666.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 0</text>
+	</g>
+	<path stroke='black'  d='M63.6,601.6 L72.6,601.6  h0.01'/>	<g transform="translate(55.3,606.1)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 5</text>
+	</g>
+	<path stroke='black'  d='M63.6,540.7 L72.6,540.7  h0.01'/>	<g transform="translate(55.3,545.2)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 10</text>
+	</g>
+	<path stroke='black'  d='M63.6,479.9 L72.6,479.9  h0.01'/>	<g transform="translate(55.3,484.4)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 15</text>
+	</g>
+	<path stroke='black'  d='M63.6,419.1 L72.6,419.1  h0.01'/>	<g transform="translate(55.3,423.6)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 20</text>
+	</g>
+	<path stroke='black'  d='M63.6,358.2 L72.6,358.2  h0.01'/>	<g transform="translate(55.3,362.7)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 25</text>
+	</g>
+	<path stroke='black'  d='M63.6,297.4 L72.6,297.4  h0.01'/>	<g transform="translate(55.3,301.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 30</text>
+	</g>
+	<path stroke='black'  d='M63.6,236.6 L72.6,236.6  h0.01'/>	<g transform="translate(55.3,241.1)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 35</text>
+	</g>
+	<path stroke='black'  d='M63.6,175.8 L72.6,175.8  h0.01'/>	<g transform="translate(55.3,180.3)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 40</text>
+	</g>
+	<path stroke='black'  d='M63.6,114.9 L72.6,114.9  h0.01'/>	<g transform="translate(55.3,119.4)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 45</text>
+	</g>
+	<path stroke='black'  d='M63.6,54.1 L72.6,54.1  h0.01'/>	<g transform="translate(55.3,58.6)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:end">
+		<text> 50</text>
+	</g>
+	<path stroke='black'  d='M71.9,662.4 L71.9,653.4  h0.01'/>	<g transform="translate(71.9,684.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text> 28.89</text>
+	</g>
+	<path stroke='black'  d='M169.6,662.4 L169.6,653.4  h0.01'/>	<g transform="translate(169.6,684.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text> 28.9</text>
+	</g>
+	<path stroke='black'  d='M267.4,662.4 L267.4,653.4  h0.01'/>	<g transform="translate(267.4,684.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text> 28.91</text>
+	</g>
+	<path stroke='black'  d='M365.1,662.4 L365.1,653.4  h0.01'/>	<g transform="translate(365.1,684.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text> 28.92</text>
+	</g>
+	<path stroke='black'  d='M462.9,662.4 L462.9,653.4  h0.01'/>	<g transform="translate(462.9,684.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text> 28.93</text>
+	</g>
+	<path stroke='black'  d='M560.6,662.4 L560.6,653.4  h0.01'/>	<g transform="translate(560.6,684.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text> 28.94</text>
+	</g>
+	<path stroke='black'  d='M658.4,662.4 L658.4,653.4  h0.01'/>	<g transform="translate(658.4,684.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text> 28.95</text>
+	</g>
+	<path stroke='black'  d='M756.1,662.4 L756.1,653.4  h0.01'/>	<g transform="translate(756.1,684.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text> 28.96</text>
+	</g>
+	<path stroke='black'  d='M853.9,662.4 L853.9,653.4  h0.01'/>	<g transform="translate(853.9,684.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text> 28.97</text>
+	</g>
+	<path stroke='black'  d='M951.6,662.4 L951.6,653.4  h0.01'/>	<g transform="translate(951.6,684.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text> 28.98</text>
+	</g>
+	<path stroke='black'  d='M63.6,54.1 L63.6,662.4 L1013.6,662.4 L1013.6,54.1 L63.6,54.1 Z  h0.01'/>	<g transform="translate(17.6,358.3) rotate(270)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text>Density (a.u.)</text>
+	</g>
+	<g transform="translate(538.6,711.9)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text>Average time (us)</text>
+	</g>
+	<g transform="translate(538.6,31.6)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:middle">
+		<text>Push/tokio::mpsc/512: median</text>
+	</g>
+</g>
+	<g id="gnuplot_plot_1" ><title>gnuplot_plot_1</title>
+<g style="fill:none; color:white; stroke:black; stroke-width:2.00; stroke-linecap:butt; stroke-linejoin:miter">
+</g>
+<g style="fill:none; color:red; stroke:currentColor; stroke-width:2.00; stroke-linecap:butt; stroke-linejoin:miter">
+	<g transform="translate(1089.0,67.6)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:start">
+		<text>Bootstrap distribution</text>
+	</g>
+	<path stroke='rgb( 31, 120, 180)'  d='M1038.5,63.1 L1080.7,63.1 M63.6,656.9 L65.5,656.6 L67.4,656.4 L69.3,656.0 L71.2,655.7 L73.1,655.3 
+		L75.0,654.9 L76.9,654.4 L78.8,653.9 L80.7,653.4 L82.6,652.8 L84.5,652.1 L86.4,651.3 L88.3,650.5 
+		L90.3,649.5 L92.2,648.5 L94.1,647.3 L96.0,646.0 L97.9,644.6 L99.8,643.0 L101.7,641.2 L103.6,639.4 
+		L105.5,637.3 L107.4,635.1 L109.3,632.8 L111.2,630.4 L113.1,627.8 L115.0,625.2 L116.9,622.6 L118.8,619.9 
+		L120.7,617.2 L122.6,614.6 L124.5,612.0 L126.4,609.5 L128.3,607.1 L130.2,604.8 L132.1,602.6 L134.0,600.6 
+		L135.9,598.7 L137.8,597.0 L139.8,595.3 L141.7,593.8 L143.6,592.4 L145.5,591.0 L147.4,589.7 L149.3,588.4 
+		L151.2,587.1 L153.1,585.8 L155.0,584.4 L156.9,582.9 L158.8,581.2 L160.7,579.4 L162.6,577.5 L164.5,575.3 
+		L166.4,573.0 L168.3,570.4 L170.2,567.6 L172.1,564.5 L174.0,561.2 L175.9,557.7 L177.8,553.9 L179.7,550.0 
+		L181.6,545.9 L183.5,541.6 L185.4,537.3 L187.3,532.9 L189.3,528.6 L191.2,524.3 L193.1,520.2 L195.0,516.2 
+		L196.9,512.4 L198.8,508.9 L200.7,505.7 L202.6,502.9 L204.5,500.3 L206.4,498.0 L208.3,495.9 L210.2,494.1 
+		L212.1,492.4 L214.0,490.9 L215.9,489.3 L217.8,487.6 L219.7,485.7 L221.6,483.5 L223.5,480.9 L225.4,477.7 
+		L227.3,473.9 L229.2,469.4 L231.1,464.0 L233.0,457.7 L234.9,450.3 L236.8,441.7 L238.8,431.9 L240.7,420.7 
+		L242.6,408.2 L244.5,394.3 L246.4,378.9 L248.3,362.2 L250.2,344.2 L252.1,324.9 L254.0,304.6 L255.9,283.4 
+		L257.8,261.6 L259.7,239.6 L261.6,217.6 L263.5,196.0 L265.4,175.2 L267.3,155.7 L269.2,137.7 L271.1,121.7 
+		L273.0,108.1 L274.9,97.1 L276.8,88.9 L278.7,83.8 L280.6,81.9 L282.5,83.2 L284.4,87.7 L286.3,95.2 
+		L288.2,105.7 L290.2,118.8 L292.1,134.4 L294.0,152.1 L295.9,171.6 L297.8,192.7 L299.7,214.9 L301.6,237.9 
+		L303.5,261.6 L305.4,285.5 L307.3,309.3 L309.2,333.0 L311.1,356.2 L313.0,378.7 L314.9,400.5 L316.8,421.2 
+		L318.7,440.9 L320.6,459.3 L322.5,476.5 L324.4,492.2 L326.3,506.4 L328.2,519.0 L330.1,530.1 L332.0,539.5 
+		L333.9,547.2 L335.8,553.1 L337.7,557.4 L339.7,560.0 L341.6,561.0 L343.5,560.3 L345.4,558.1 L347.3,554.5 
+		L349.2,549.5 L351.1,543.4 L353.0,536.2 L354.9,528.2 L356.8,519.6 L358.7,510.4 L360.6,501.1 L362.5,491.7 
+		L364.4,482.4 L366.3,473.7 L368.2,465.5 L370.1,458.1 L372.0,451.8 L373.9,446.6 L375.8,442.7 L377.7,440.3 
+		L379.6,439.2 L381.5,439.7 L383.4,441.7 L385.3,445.0 L387.2,449.8 L389.2,455.8 L391.1,462.9 L393.0,470.9 
+		L394.9,479.7 L396.8,489.0 L398.7,498.5 L400.6,508.1 L402.5,517.5 L404.4,526.5 L406.3,534.8 L408.2,542.3 
+		L410.1,548.6 L412.0,553.7 L413.9,557.3 L415.8,559.2 L417.7,559.5 L419.6,557.9 L421.5,554.4 L423.4,548.9 
+		L425.3,541.5 L427.2,532.1 L429.1,520.8 L431.0,507.7 L432.9,492.9 L434.8,476.7 L436.7,459.1 L438.7,440.5 
+		L440.6,421.2 L442.5,401.4 L444.4,381.4 L446.3,361.6 L448.2,342.3 L450.1,323.8 L452.0,306.5 L453.9,290.6 
+		L455.8,276.4 L457.7,264.1 L459.6,253.9 L461.5,245.9 L463.4,240.1 L465.3,236.6 L467.2,235.4 L469.1,236.3 
+		L471.0,239.2 L472.9,244.1 L474.8,250.6 L476.7,258.5 L478.6,267.6 L480.5,277.8 L482.4,288.6 L484.3,299.9 
+		L486.2,311.5 L488.1,323.1 L490.1,334.6 L492.0,345.7 L493.9,356.5 L495.8,366.7 L497.7,376.2 L499.6,385.1 
+		L501.5,393.3 L503.4,400.8 L505.3,407.6 L507.2,413.8 L509.1,419.4 L511.0,424.4 L512.9,428.9 L514.8,433.0 
+		L516.7,436.7 L518.6,440.0 L520.5,443.0 L522.4,445.8 L524.3,448.2 L526.2,450.4 L528.1,452.4 L530.0,454.1 
+		L531.9,455.5 L533.8,456.7 L535.7,457.6 L537.6,458.4 L539.6,459.1 L541.5,459.6 L543.4,460.2 L545.3,460.8 
+		L547.2,461.7 L549.1,462.8 L551.0,464.4 L552.9,466.5 L554.8,469.2 L556.7,472.6 L558.6,476.8 L560.5,481.7 
+		L562.4,487.5 L564.3,494.2 L566.2,501.5 L568.1,509.6 L570.0,518.2 L571.9,527.3 L573.8,536.8 L575.7,546.5 
+		L577.6,556.3 L579.5,566.0 L581.4,575.5 L583.3,584.7 L585.2,593.4 L587.1,601.7 L589.1,609.4 L591.0,616.5 
+		L592.9,623.0 L594.8,628.8 L596.7,634.0 L598.6,638.6 L600.5,642.6 L602.4,646.0 L604.3,648.9 L606.2,651.4 
+		L608.1,653.5 L610.0,655.2 L611.9,656.6 L613.8,657.7 L615.7,658.7 L617.6,659.4 L619.5,660.0 L621.4,660.4 
+		L623.3,660.8 L625.2,661.0 L627.1,661.2 L629.0,661.3 L630.9,661.4 L632.8,661.4 L634.7,661.4 L636.6,661.3 
+		L638.5,661.2 L640.5,661.0 L642.4,660.9 L644.3,660.6 L646.2,660.3 L648.1,660.0 L650.0,659.6 L651.9,659.2 
+		L653.8,658.7 L655.7,658.2 L657.6,657.6 L659.5,657.0 L661.4,656.2 L663.3,655.5 L665.2,654.7 L667.1,653.8 
+		L669.0,652.8 L670.9,651.9 L672.8,650.8 L674.7,649.7 L676.6,648.5 L678.5,647.2 L680.4,645.8 L682.3,644.4 
+		L684.2,642.8 L686.1,641.1 L688.0,639.3 L690.0,637.4 L691.9,635.2 L693.8,633.0 L695.7,630.5 L697.6,627.9 
+		L699.5,625.1 L701.4,622.2 L703.3,619.1 L705.2,616.0 L707.1,612.8 L709.0,609.5 L710.9,606.3 L712.8,603.1 
+		L714.7,600.1 L716.6,597.3 L718.5,594.7 L720.4,592.5 L722.3,590.7 L724.2,589.2 L726.1,588.3 L728.0,587.8 
+		L729.9,587.9 L731.8,588.4 L733.7,589.5 L735.6,591.1 L737.5,593.1 L739.5,595.5 L741.4,598.3 L743.3,601.4 
+		L745.2,604.8 L747.1,608.3 L749.0,611.9 L750.9,615.6 L752.8,619.4 L754.7,623.0 L756.6,626.6 L758.5,630.0 
+		L760.4,633.3 L762.3,636.4 L764.2,639.2 L766.1,641.9 L768.0,644.3 L769.9,646.5 L771.8,648.5 L773.7,650.3 
+		L775.6,651.9 L777.5,653.3 L779.4,654.5 L781.3,655.6 L783.2,656.5 L785.1,657.3 L787.0,658.0 L789.0,658.6 
+		L790.9,659.1 L792.8,659.5 L794.7,659.9 L796.6,660.3 L798.5,660.5 L800.4,660.8 L802.3,661.0 L804.2,661.2 
+		L806.1,661.3 L808.0,661.5 L809.9,661.6 L811.8,661.7 L813.7,661.8 L815.6,661.8 L817.5,661.9 L819.4,661.9 
+		L821.3,661.9 L823.2,662.0 L825.1,662.0 L827.0,662.0 L828.9,661.9 L830.8,661.9 L832.7,661.8 L834.6,661.7 
+		L836.5,661.6 L838.4,661.5 L840.4,661.2 L842.3,661.0 L844.2,660.6 L846.1,660.2 L848.0,659.7 L849.9,659.1 
+		L851.8,658.4 L853.7,657.5 L855.6,656.5 L857.5,655.3 L859.4,653.9 L861.3,652.4 L863.2,650.6 L865.1,648.6 
+		L867.0,646.4 L868.9,643.9 L870.8,641.3 L872.7,638.4 L874.6,635.4 L876.5,632.2 L878.4,628.9 L880.3,625.4 
+		L882.2,621.9 L884.1,618.4 L886.0,614.9 L887.9,611.5 L889.9,608.2 L891.8,605.0 L893.7,602.1 L895.6,599.4 
+		L897.5,597.0 L899.4,594.8 L901.3,593.1 L903.2,591.6 L905.1,590.6 L907.0,589.8 L908.9,589.5 L910.8,589.5 
+		L912.7,589.8 L914.6,590.4 L916.5,591.3 L918.4,592.5 L920.3,593.9 L922.2,595.5 L924.1,597.2 L926.0,599.1 
+		L927.9,601.0 L929.8,603.1 L931.7,605.2 L933.6,607.3 L935.5,609.3 L937.4,611.4 L939.4,613.4 L941.3,615.4 
+		L943.2,617.3 L945.1,619.2 L947.0,621.0 L948.9,622.7 L950.8,624.3 L952.7,625.9 L954.6,627.4 L956.5,628.8 
+		L958.4,630.2 L960.3,631.5 L962.2,632.7 L964.1,633.9 L966.0,635.0 L967.9,636.1 L969.8,637.1 L971.7,638.1 
+		L973.6,639.1 L975.5,640.0 L977.4,640.8 L979.3,641.6 L981.2,642.4 L983.1,643.1 L985.0,643.8 L986.9,644.4 
+		L988.9,645.0 L990.8,645.6 L992.7,646.1 L994.6,646.6 L996.5,647.0 L998.4,647.4 L1000.3,647.8 L1002.2,648.2 
+		L1004.1,648.5 L1006.0,648.8 L1007.9,649.1 L1009.8,649.4 L1011.7,649.7 L1013.6,650.0  h0.01'/></g>
+	</g>
+	<g id="gnuplot_plot_2" ><title>gnuplot_plot_2</title>
+<g style="fill:none; color:white; stroke:rgb( 31, 120, 180); stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
+</g>
+<g style="fill:none; color:green; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
+	<g transform="translate(1089.0,85.6)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:start">
+		<text>Confidence interval</text>
+	</g>
+	<g style = 'stroke:none; shape-rendering:crispEdges'>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '1038.5,85.6 1080.7,85.6 1080.7,76.6 1038.5,76.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '151.2,587.1 151.2,662.4 153.1,662.4 153.1,585.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '153.1,585.8 153.1,662.4 155.0,662.4 155.0,584.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '155.0,584.4 155.0,662.4 156.9,662.4 156.9,582.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '156.9,582.9 156.9,662.4 158.8,662.4 158.8,581.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '158.8,581.2 158.8,662.4 160.7,662.4 160.7,579.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '160.7,579.4 160.7,662.4 162.6,662.4 162.6,577.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '162.6,577.5 162.6,662.4 164.5,662.4 164.5,575.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '164.5,575.3 164.5,662.4 166.4,662.4 166.4,573.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '166.4,573.0 166.4,662.4 168.3,662.4 168.3,570.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '168.3,570.4 168.3,662.4 170.2,662.4 170.2,567.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '170.2,567.6 170.2,662.4 172.1,662.4 172.1,564.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '172.1,564.5 172.1,662.4 174.0,662.4 174.0,561.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '174.0,561.2 174.0,662.4 175.9,662.4 175.9,557.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '175.9,557.7 175.9,662.4 177.8,662.4 177.8,553.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '177.8,553.9 177.8,662.4 179.7,662.4 179.7,550.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '179.7,550.0 179.7,662.4 181.6,662.4 181.6,545.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '181.6,545.9 181.6,662.4 183.5,662.4 183.5,541.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '183.5,541.6 183.5,662.4 185.4,662.4 185.4,537.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '185.4,537.3 185.4,662.4 187.3,662.4 187.3,532.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '187.3,532.9 187.3,662.4 189.3,662.4 189.3,528.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '189.3,528.6 189.3,662.4 191.2,662.4 191.2,524.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '191.2,524.3 191.2,662.4 193.1,662.4 193.1,520.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '193.1,520.2 193.1,662.4 195.0,662.4 195.0,516.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '195.0,516.2 195.0,662.4 196.9,662.4 196.9,512.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '196.9,512.4 196.9,662.4 198.8,662.4 198.8,508.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '198.8,508.9 198.8,662.4 200.7,662.4 200.7,505.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '200.7,505.7 200.7,662.4 202.6,662.4 202.6,502.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '202.6,502.9 202.6,662.4 204.5,662.4 204.5,500.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '204.5,500.3 204.5,662.4 206.4,662.4 206.4,498.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '206.4,498.0 206.4,662.4 208.3,662.4 208.3,495.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '208.3,495.9 208.3,662.4 210.2,662.4 210.2,494.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '210.2,494.1 210.2,662.4 212.1,662.4 212.1,492.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '212.1,492.4 212.1,662.4 214.0,662.4 214.0,490.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '214.0,490.9 214.0,662.4 215.9,662.4 215.9,489.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '215.9,489.3 215.9,662.4 217.8,662.4 217.8,487.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '217.8,487.6 217.8,662.4 219.7,662.4 219.7,485.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '219.7,485.7 219.7,662.4 221.6,662.4 221.6,483.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '221.6,483.5 221.6,662.4 223.5,662.4 223.5,480.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '223.5,480.9 223.5,662.4 225.4,662.4 225.4,477.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '225.4,477.7 225.4,662.4 227.3,662.4 227.3,473.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '227.3,473.9 227.3,662.4 229.2,662.4 229.2,469.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '229.2,469.4 229.2,662.4 231.1,662.4 231.1,464.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '231.1,464.0 231.1,662.4 233.0,662.4 233.0,457.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '233.0,457.7 233.0,662.4 234.9,662.4 234.9,450.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '234.9,450.3 234.9,662.4 236.8,662.4 236.8,441.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '236.8,441.7 236.8,662.4 238.8,662.4 238.8,431.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '238.8,431.9 238.8,662.4 240.7,662.4 240.7,420.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '240.7,420.7 240.7,662.4 242.6,662.4 242.6,408.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '242.6,408.2 242.6,662.4 244.5,662.4 244.5,394.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '244.5,394.3 244.5,662.4 246.4,662.4 246.4,378.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '246.4,378.9 246.4,662.4 248.3,662.4 248.3,362.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '248.3,362.2 248.3,662.4 250.2,662.4 250.2,344.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '250.2,344.2 250.2,662.4 252.1,662.4 252.1,324.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '252.1,324.9 252.1,662.4 254.0,662.4 254.0,304.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '254.0,304.6 254.0,662.4 255.9,662.4 255.9,283.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '255.9,283.4 255.9,662.4 257.8,662.4 257.8,261.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '257.8,261.6 257.8,662.4 259.7,662.4 259.7,239.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '259.7,239.6 259.7,662.4 261.6,662.4 261.6,217.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '261.6,217.6 261.6,662.4 263.5,662.4 263.5,196.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '263.5,196.0 263.5,662.4 265.4,662.4 265.4,175.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '265.4,175.2 265.4,662.4 267.3,662.4 267.3,155.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '267.3,155.7 267.3,662.4 269.2,662.4 269.2,137.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '269.2,137.7 269.2,662.4 271.1,662.4 271.1,121.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '271.1,121.7 271.1,662.4 273.0,662.4 273.0,108.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '273.0,108.1 273.0,662.4 274.9,662.4 274.9,97.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '274.9,97.1 274.9,662.4 276.8,662.4 276.8,88.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '276.8,88.9 276.8,662.4 278.7,662.4 278.7,83.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '278.7,83.8 278.7,662.4 280.6,662.4 280.6,81.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '280.6,81.9 280.6,662.4 282.5,662.4 282.5,83.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '282.5,83.2 282.5,662.4 284.4,662.4 284.4,87.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '284.4,87.7 284.4,662.4 286.3,662.4 286.3,95.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '286.3,95.2 286.3,662.4 288.2,662.4 288.2,105.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '288.2,105.7 288.2,662.4 290.2,662.4 290.2,118.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '290.2,118.8 290.2,662.4 292.1,662.4 292.1,134.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '292.1,134.4 292.1,662.4 294.0,662.4 294.0,152.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '294.0,152.1 294.0,662.4 295.9,662.4 295.9,171.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '295.9,171.6 295.9,662.4 297.8,662.4 297.8,192.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '297.8,192.7 297.8,662.4 299.7,662.4 299.7,214.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '299.7,214.9 299.7,662.4 301.6,662.4 301.6,237.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '301.6,237.9 301.6,662.4 303.5,662.4 303.5,261.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '303.5,261.6 303.5,662.4 305.4,662.4 305.4,285.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '305.4,285.5 305.4,662.4 307.3,662.4 307.3,309.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '307.3,309.3 307.3,662.4 309.2,662.4 309.2,333.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '309.2,333.0 309.2,662.4 311.1,662.4 311.1,356.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '311.1,356.2 311.1,662.4 313.0,662.4 313.0,378.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '313.0,378.7 313.0,662.4 314.9,662.4 314.9,400.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '314.9,400.5 314.9,662.4 316.8,662.4 316.8,421.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '316.8,421.2 316.8,662.4 318.7,662.4 318.7,440.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '318.7,440.9 318.7,662.4 320.6,662.4 320.6,459.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '320.6,459.3 320.6,662.4 322.5,662.4 322.5,476.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '322.5,476.5 322.5,662.4 324.4,662.4 324.4,492.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '324.4,492.2 324.4,662.4 326.3,662.4 326.3,506.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '326.3,506.4 326.3,662.4 328.2,662.4 328.2,519.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '328.2,519.0 328.2,662.4 330.1,662.4 330.1,530.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '330.1,530.1 330.1,662.4 332.0,662.4 332.0,539.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '332.0,539.5 332.0,662.4 333.9,662.4 333.9,547.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '333.9,547.2 333.9,662.4 335.8,662.4 335.8,553.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '335.8,553.1 335.8,662.4 337.7,662.4 337.7,557.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '337.7,557.4 337.7,662.4 339.7,662.4 339.7,560.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '339.7,560.0 339.7,662.4 341.6,662.4 341.6,561.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '341.6,561.0 341.6,662.4 343.5,662.4 343.5,560.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '343.5,560.3 343.5,662.4 345.4,662.4 345.4,558.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '345.4,558.1 345.4,662.4 347.3,662.4 347.3,554.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '347.3,554.5 347.3,662.4 349.2,662.4 349.2,549.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '349.2,549.5 349.2,662.4 351.1,662.4 351.1,543.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '351.1,543.4 351.1,662.4 353.0,662.4 353.0,536.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '353.0,536.2 353.0,662.4 354.9,662.4 354.9,528.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '354.9,528.2 354.9,662.4 356.8,662.4 356.8,519.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '356.8,519.6 356.8,662.4 358.7,662.4 358.7,510.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '358.7,510.4 358.7,662.4 360.6,662.4 360.6,501.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '360.6,501.1 360.6,662.4 362.5,662.4 362.5,491.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '362.5,491.7 362.5,662.4 364.4,662.4 364.4,482.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '364.4,482.4 364.4,662.4 366.3,662.4 366.3,473.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '366.3,473.7 366.3,662.4 368.2,662.4 368.2,465.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '368.2,465.5 368.2,662.4 370.1,662.4 370.1,458.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '370.1,458.1 370.1,662.4 372.0,662.4 372.0,451.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '372.0,451.8 372.0,662.4 373.9,662.4 373.9,446.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '373.9,446.6 373.9,662.4 375.8,662.4 375.8,442.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '375.8,442.7 375.8,662.4 377.7,662.4 377.7,440.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '377.7,440.3 377.7,662.4 379.6,662.4 379.6,439.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '379.6,439.2 379.6,662.4 381.5,662.4 381.5,439.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '381.5,439.7 381.5,662.4 383.4,662.4 383.4,441.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '383.4,441.7 383.4,662.4 385.3,662.4 385.3,445.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '385.3,445.0 385.3,662.4 387.2,662.4 387.2,449.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '387.2,449.8 387.2,662.4 389.2,662.4 389.2,455.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '389.2,455.8 389.2,662.4 391.1,662.4 391.1,462.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '391.1,462.9 391.1,662.4 393.0,662.4 393.0,470.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '393.0,470.9 393.0,662.4 394.9,662.4 394.9,479.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '394.9,479.7 394.9,662.4 396.8,662.4 396.8,489.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '396.8,489.0 396.8,662.4 398.7,662.4 398.7,498.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '398.7,498.5 398.7,662.4 400.6,662.4 400.6,508.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '400.6,508.1 400.6,662.4 402.5,662.4 402.5,517.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '402.5,517.5 402.5,662.4 404.4,662.4 404.4,526.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '404.4,526.5 404.4,662.4 406.3,662.4 406.3,534.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '406.3,534.8 406.3,662.4 408.2,662.4 408.2,542.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '408.2,542.3 408.2,662.4 410.1,662.4 410.1,548.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '410.1,548.6 410.1,662.4 412.0,662.4 412.0,553.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '412.0,553.7 412.0,662.4 413.9,662.4 413.9,557.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '413.9,557.3 413.9,662.4 415.8,662.4 415.8,559.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '415.8,559.2 415.8,662.4 417.7,662.4 417.7,559.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '417.7,559.5 417.7,662.4 419.6,662.4 419.6,557.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '419.6,557.9 419.6,662.4 421.5,662.4 421.5,554.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '421.5,554.4 421.5,662.4 423.4,662.4 423.4,548.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '423.4,548.9 423.4,662.4 425.3,662.4 425.3,541.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '425.3,541.5 425.3,662.4 427.2,662.4 427.2,532.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '427.2,532.1 427.2,662.4 429.1,662.4 429.1,520.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '429.1,520.8 429.1,662.4 431.0,662.4 431.0,507.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '431.0,507.7 431.0,662.4 432.9,662.4 432.9,492.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '432.9,492.9 432.9,662.4 434.8,662.4 434.8,476.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '434.8,476.7 434.8,662.4 436.7,662.4 436.7,459.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '436.7,459.1 436.7,662.4 438.7,662.4 438.7,440.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '438.7,440.5 438.7,662.4 440.6,662.4 440.6,421.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '440.6,421.2 440.6,662.4 442.5,662.4 442.5,401.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '442.5,401.4 442.5,662.4 444.4,662.4 444.4,381.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '444.4,381.4 444.4,662.4 446.3,662.4 446.3,361.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '446.3,361.6 446.3,662.4 448.2,662.4 448.2,342.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '448.2,342.3 448.2,662.4 450.1,662.4 450.1,323.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '450.1,323.8 450.1,662.4 452.0,662.4 452.0,306.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '452.0,306.5 452.0,662.4 453.9,662.4 453.9,290.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '453.9,290.6 453.9,662.4 455.8,662.4 455.8,276.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '455.8,276.4 455.8,662.4 457.7,662.4 457.7,264.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '457.7,264.1 457.7,662.4 459.6,662.4 459.6,253.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '459.6,253.9 459.6,662.4 461.5,662.4 461.5,245.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '461.5,245.9 461.5,662.4 463.4,662.4 463.4,240.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '463.4,240.1 463.4,662.4 465.3,662.4 465.3,236.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '465.3,236.6 465.3,662.4 467.2,662.4 467.2,235.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '467.2,235.4 467.2,662.4 469.1,662.4 469.1,236.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '469.1,236.3 469.1,662.4 471.0,662.4 471.0,239.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '471.0,239.2 471.0,662.4 472.9,662.4 472.9,244.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '472.9,244.1 472.9,662.4 474.8,662.4 474.8,250.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '474.8,250.6 474.8,662.4 476.7,662.4 476.7,258.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '476.7,258.5 476.7,662.4 478.6,662.4 478.6,267.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '478.6,267.6 478.6,662.4 480.5,662.4 480.5,277.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '480.5,277.8 480.5,662.4 482.4,662.4 482.4,288.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '482.4,288.6 482.4,662.4 484.3,662.4 484.3,299.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '484.3,299.9 484.3,662.4 486.2,662.4 486.2,311.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '486.2,311.5 486.2,662.4 488.1,662.4 488.1,323.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '488.1,323.1 488.1,662.4 490.1,662.4 490.1,334.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '490.1,334.6 490.1,662.4 492.0,662.4 492.0,345.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '492.0,345.7 492.0,662.4 493.9,662.4 493.9,356.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '493.9,356.5 493.9,662.4 495.8,662.4 495.8,366.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '495.8,366.7 495.8,662.4 497.7,662.4 497.7,376.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '497.7,376.2 497.7,662.4 499.6,662.4 499.6,385.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '499.6,385.1 499.6,662.4 501.5,662.4 501.5,393.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '501.5,393.3 501.5,662.4 503.4,662.4 503.4,400.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '503.4,400.8 503.4,662.4 505.3,662.4 505.3,407.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '505.3,407.6 505.3,662.4 507.2,662.4 507.2,413.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '507.2,413.8 507.2,662.4 509.1,662.4 509.1,419.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '509.1,419.4 509.1,662.4 511.0,662.4 511.0,424.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '511.0,424.4 511.0,662.4 512.9,662.4 512.9,428.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '512.9,428.9 512.9,662.4 514.8,662.4 514.8,433.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '514.8,433.0 514.8,662.4 516.7,662.4 516.7,436.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '516.7,436.7 516.7,662.4 518.6,662.4 518.6,440.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '518.6,440.0 518.6,662.4 520.5,662.4 520.5,443.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '520.5,443.0 520.5,662.4 522.4,662.4 522.4,445.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '522.4,445.8 522.4,662.4 524.3,662.4 524.3,448.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '524.3,448.2 524.3,662.4 526.2,662.4 526.2,450.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '526.2,450.4 526.2,662.4 528.1,662.4 528.1,452.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '528.1,452.4 528.1,662.4 530.0,662.4 530.0,454.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '530.0,454.1 530.0,662.4 531.9,662.4 531.9,455.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '531.9,455.5 531.9,662.4 533.8,662.4 533.8,456.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '533.8,456.7 533.8,662.4 535.7,662.4 535.7,457.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '535.7,457.6 535.7,662.4 537.6,662.4 537.6,458.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '537.6,458.4 537.6,662.4 539.6,662.4 539.6,459.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '539.6,459.1 539.6,662.4 541.5,662.4 541.5,459.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '541.5,459.6 541.5,662.4 543.4,662.4 543.4,460.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '543.4,460.2 543.4,662.4 545.3,662.4 545.3,460.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '545.3,460.8 545.3,662.4 547.2,662.4 547.2,461.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '547.2,461.7 547.2,662.4 549.1,662.4 549.1,462.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '549.1,462.8 549.1,662.4 551.0,662.4 551.0,464.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '551.0,464.4 551.0,662.4 552.9,662.4 552.9,466.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '552.9,466.5 552.9,662.4 554.8,662.4 554.8,469.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '554.8,469.2 554.8,662.4 556.7,662.4 556.7,472.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '556.7,472.6 556.7,662.4 558.6,662.4 558.6,476.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '558.6,476.8 558.6,662.4 560.5,662.4 560.5,481.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '560.5,481.7 560.5,662.4 562.4,662.4 562.4,487.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '562.4,487.5 562.4,662.4 564.3,662.4 564.3,494.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '564.3,494.2 564.3,662.4 566.2,662.4 566.2,501.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '566.2,501.5 566.2,662.4 568.1,662.4 568.1,509.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '568.1,509.6 568.1,662.4 570.0,662.4 570.0,518.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '570.0,518.2 570.0,662.4 571.9,662.4 571.9,527.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '571.9,527.3 571.9,662.4 573.8,662.4 573.8,536.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '573.8,536.8 573.8,662.4 575.7,662.4 575.7,546.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '575.7,546.5 575.7,662.4 577.6,662.4 577.6,556.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '577.6,556.3 577.6,662.4 579.5,662.4 579.5,566.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '579.5,566.0 579.5,662.4 581.4,662.4 581.4,575.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '581.4,575.5 581.4,662.4 583.3,662.4 583.3,584.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '583.3,584.7 583.3,662.4 585.2,662.4 585.2,593.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '585.2,593.4 585.2,662.4 587.1,662.4 587.1,601.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '587.1,601.7 587.1,662.4 589.1,662.4 589.1,609.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '589.1,609.4 589.1,662.4 591.0,662.4 591.0,616.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '591.0,616.5 591.0,662.4 592.9,662.4 592.9,623.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '592.9,623.0 592.9,662.4 594.8,662.4 594.8,628.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '594.8,628.8 594.8,662.4 596.7,662.4 596.7,634.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '596.7,634.0 596.7,662.4 598.6,662.4 598.6,638.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '598.6,638.6 598.6,662.4 600.5,662.4 600.5,642.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '600.5,642.6 600.5,662.4 602.4,662.4 602.4,646.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '602.4,646.0 602.4,662.4 604.3,662.4 604.3,648.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '604.3,648.9 604.3,662.4 606.2,662.4 606.2,651.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '606.2,651.4 606.2,662.4 608.1,662.4 608.1,653.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '608.1,653.5 608.1,662.4 610.0,662.4 610.0,655.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '610.0,655.2 610.0,662.4 611.9,662.4 611.9,656.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '611.9,656.6 611.9,662.4 613.8,662.4 613.8,657.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '613.8,657.7 613.8,662.4 615.7,662.4 615.7,658.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '615.7,658.7 615.7,662.4 617.6,662.4 617.6,659.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '617.6,659.4 617.6,662.4 619.5,662.4 619.5,660.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '619.5,660.0 619.5,662.4 621.4,662.4 621.4,660.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '621.4,660.4 621.4,662.4 623.3,662.4 623.3,660.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '623.3,660.8 623.3,662.4 625.2,662.4 625.2,661.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '625.2,661.0 625.2,662.4 627.1,662.4 627.1,661.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '627.1,661.2 627.1,662.4 629.0,662.4 629.0,661.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '629.0,661.3 629.0,662.4 630.9,662.4 630.9,661.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '630.9,661.4 630.9,662.4 632.8,662.4 632.8,661.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '632.8,661.4 632.8,662.4 634.7,662.4 634.7,661.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '634.7,661.4 634.7,662.4 636.6,662.4 636.6,661.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '636.6,661.3 636.6,662.4 638.5,662.4 638.5,661.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '638.5,661.2 638.5,662.4 640.5,662.4 640.5,661.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '640.5,661.0 640.5,662.4 642.4,662.4 642.4,660.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '642.4,660.9 642.4,662.4 644.3,662.4 644.3,660.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '644.3,660.6 644.3,662.4 646.2,662.4 646.2,660.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '646.2,660.3 646.2,662.4 648.1,662.4 648.1,660.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '648.1,660.0 648.1,662.4 650.0,662.4 650.0,659.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '650.0,659.6 650.0,662.4 651.9,662.4 651.9,659.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '651.9,659.2 651.9,662.4 653.8,662.4 653.8,658.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '653.8,658.7 653.8,662.4 655.7,662.4 655.7,658.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '655.7,658.2 655.7,662.4 657.6,662.4 657.6,657.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '657.6,657.6 657.6,662.4 659.5,662.4 659.5,657.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '659.5,657.0 659.5,662.4 661.4,662.4 661.4,656.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '661.4,656.2 661.4,662.4 663.3,662.4 663.3,655.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '663.3,655.5 663.3,662.4 665.2,662.4 665.2,654.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '665.2,654.7 665.2,662.4 667.1,662.4 667.1,653.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '667.1,653.8 667.1,662.4 669.0,662.4 669.0,652.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '669.0,652.8 669.0,662.4 670.9,662.4 670.9,651.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '670.9,651.9 670.9,662.4 672.8,662.4 672.8,650.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '672.8,650.8 672.8,662.4 674.7,662.4 674.7,649.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '674.7,649.7 674.7,662.4 676.6,662.4 676.6,648.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '676.6,648.5 676.6,662.4 678.5,662.4 678.5,647.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '678.5,647.2 678.5,662.4 680.4,662.4 680.4,645.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '680.4,645.8 680.4,662.4 682.3,662.4 682.3,644.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '682.3,644.4 682.3,662.4 684.2,662.4 684.2,642.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '684.2,642.8 684.2,662.4 686.1,662.4 686.1,641.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '686.1,641.1 686.1,662.4 688.0,662.4 688.0,639.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '688.0,639.3 688.0,662.4 690.0,662.4 690.0,637.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '690.0,637.4 690.0,662.4 691.9,662.4 691.9,635.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '691.9,635.2 691.9,662.4 693.8,662.4 693.8,633.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '693.8,633.0 693.8,662.4 695.7,662.4 695.7,630.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '695.7,630.5 695.7,662.4 697.6,662.4 697.6,627.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '697.6,627.9 697.6,662.4 699.5,662.4 699.5,625.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '699.5,625.1 699.5,662.4 701.4,662.4 701.4,622.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '701.4,622.2 701.4,662.4 703.3,662.4 703.3,619.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '703.3,619.1 703.3,662.4 705.2,662.4 705.2,616.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '705.2,616.0 705.2,662.4 707.1,662.4 707.1,612.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '707.1,612.8 707.1,662.4 709.0,662.4 709.0,609.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '709.0,609.5 709.0,662.4 710.9,662.4 710.9,606.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '710.9,606.3 710.9,662.4 712.8,662.4 712.8,603.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '712.8,603.1 712.8,662.4 714.7,662.4 714.7,600.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '714.7,600.1 714.7,662.4 716.6,662.4 716.6,597.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '716.6,597.3 716.6,662.4 718.5,662.4 718.5,594.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '718.5,594.7 718.5,662.4 720.4,662.4 720.4,592.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '720.4,592.5 720.4,662.4 722.3,662.4 722.3,590.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '722.3,590.7 722.3,662.4 724.2,662.4 724.2,589.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '724.2,589.2 724.2,662.4 726.1,662.4 726.1,588.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '726.1,588.3 726.1,662.4 728.0,662.4 728.0,587.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '728.0,587.8 728.0,662.4 729.9,662.4 729.9,587.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '729.9,587.9 729.9,662.4 731.8,662.4 731.8,588.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '731.8,588.4 731.8,662.4 733.7,662.4 733.7,589.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '733.7,589.5 733.7,662.4 735.6,662.4 735.6,591.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '735.6,591.1 735.6,662.4 737.5,662.4 737.5,593.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '737.5,593.1 737.5,662.4 739.5,662.4 739.5,595.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '739.5,595.5 739.5,662.4 741.4,662.4 741.4,598.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '741.4,598.3 741.4,662.4 743.3,662.4 743.3,601.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '743.3,601.4 743.3,662.4 745.2,662.4 745.2,604.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '745.2,604.8 745.2,662.4 747.1,662.4 747.1,608.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '747.1,608.3 747.1,662.4 749.0,662.4 749.0,611.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '749.0,611.9 749.0,662.4 750.9,662.4 750.9,615.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '750.9,615.6 750.9,662.4 752.8,662.4 752.8,619.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '752.8,619.4 752.8,662.4 754.7,662.4 754.7,623.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '754.7,623.0 754.7,662.4 756.6,662.4 756.6,626.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '756.6,626.6 756.6,662.4 758.5,662.4 758.5,630.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '758.5,630.0 758.5,662.4 760.4,662.4 760.4,633.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '760.4,633.3 760.4,662.4 762.3,662.4 762.3,636.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '762.3,636.4 762.3,662.4 764.2,662.4 764.2,639.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '764.2,639.2 764.2,662.4 766.1,662.4 766.1,641.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '766.1,641.9 766.1,662.4 768.0,662.4 768.0,644.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '768.0,644.3 768.0,662.4 769.9,662.4 769.9,646.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '769.9,646.5 769.9,662.4 771.8,662.4 771.8,648.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '771.8,648.5 771.8,662.4 773.7,662.4 773.7,650.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '773.7,650.3 773.7,662.4 775.6,662.4 775.6,651.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '775.6,651.9 775.6,662.4 777.5,662.4 777.5,653.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '777.5,653.3 777.5,662.4 779.4,662.4 779.4,654.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '779.4,654.5 779.4,662.4 781.3,662.4 781.3,655.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '781.3,655.6 781.3,662.4 783.2,662.4 783.2,656.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '783.2,656.5 783.2,662.4 785.1,662.4 785.1,657.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '785.1,657.3 785.1,662.4 787.0,662.4 787.0,658.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '787.0,658.0 787.0,662.4 789.0,662.4 789.0,658.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '789.0,658.6 789.0,662.4 790.9,662.4 790.9,659.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '790.9,659.1 790.9,662.4 792.8,662.4 792.8,659.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '792.8,659.5 792.8,662.4 794.7,662.4 794.7,659.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '794.7,659.9 794.7,662.4 796.6,662.4 796.6,660.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '796.6,660.3 796.6,662.4 798.5,662.4 798.5,660.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '798.5,660.5 798.5,662.4 800.4,662.4 800.4,660.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '800.4,660.8 800.4,662.4 802.3,662.4 802.3,661.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '802.3,661.0 802.3,662.4 804.2,662.4 804.2,661.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '804.2,661.2 804.2,662.4 806.1,662.4 806.1,661.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '806.1,661.3 806.1,662.4 808.0,662.4 808.0,661.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '808.0,661.5 808.0,662.4 809.9,662.4 809.9,661.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '809.9,661.6 809.9,662.4 811.8,662.4 811.8,661.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '811.8,661.7 811.8,662.4 813.7,662.4 813.7,661.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '813.7,661.8 813.7,662.4 815.6,662.4 815.6,661.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '815.6,661.8 815.6,662.4 817.5,662.4 817.5,661.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '817.5,661.9 817.5,662.4 819.4,662.4 819.4,661.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '819.4,661.9 819.4,662.4 821.3,662.4 821.3,661.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '821.3,661.9 821.3,662.4 823.2,662.4 823.2,662.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '823.2,662.0 823.2,662.4 825.1,662.4 825.1,662.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '825.1,662.0 825.1,662.4 827.0,662.4 827.0,662.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '827.0,662.0 827.0,662.4 828.9,662.4 828.9,661.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '828.9,661.9 828.9,662.4 830.8,662.4 830.8,661.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '830.8,661.9 830.8,662.4 832.7,662.4 832.7,661.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '832.7,661.8 832.7,662.4 834.6,662.4 834.6,661.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '834.6,661.7 834.6,662.4 836.5,662.4 836.5,661.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '836.5,661.6 836.5,662.4 838.4,662.4 838.4,661.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '838.4,661.5 838.4,662.4 840.4,662.4 840.4,661.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '840.4,661.2 840.4,662.4 842.3,662.4 842.3,661.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '842.3,661.0 842.3,662.4 844.2,662.4 844.2,660.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '844.2,660.6 844.2,662.4 846.1,662.4 846.1,660.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '846.1,660.2 846.1,662.4 848.0,662.4 848.0,659.7 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '848.0,659.7 848.0,662.4 849.9,662.4 849.9,659.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '849.9,659.1 849.9,662.4 851.8,662.4 851.8,658.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '851.8,658.4 851.8,662.4 853.7,662.4 853.7,657.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '853.7,657.5 853.7,662.4 855.6,662.4 855.6,656.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '855.6,656.5 855.6,662.4 857.5,662.4 857.5,655.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '857.5,655.3 857.5,662.4 859.4,662.4 859.4,653.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '859.4,653.9 859.4,662.4 861.3,662.4 861.3,652.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '861.3,652.4 861.3,662.4 863.2,662.4 863.2,650.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '863.2,650.6 863.2,662.4 865.1,662.4 865.1,648.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '865.1,648.6 865.1,662.4 867.0,662.4 867.0,646.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '867.0,646.4 867.0,662.4 868.9,662.4 868.9,643.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '868.9,643.9 868.9,662.4 870.8,662.4 870.8,641.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '870.8,641.3 870.8,662.4 872.7,662.4 872.7,638.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '872.7,638.4 872.7,662.4 874.6,662.4 874.6,635.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '874.6,635.4 874.6,662.4 876.5,662.4 876.5,632.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '876.5,632.2 876.5,662.4 878.4,662.4 878.4,628.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '878.4,628.9 878.4,662.4 880.3,662.4 880.3,625.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '880.3,625.4 880.3,662.4 882.2,662.4 882.2,621.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '882.2,621.9 882.2,662.4 884.1,662.4 884.1,618.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '884.1,618.4 884.1,662.4 886.0,662.4 886.0,614.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '886.0,614.9 886.0,662.4 887.9,662.4 887.9,611.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '887.9,611.5 887.9,662.4 889.9,662.4 889.9,608.2 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '889.9,608.2 889.9,662.4 891.8,662.4 891.8,605.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '891.8,605.0 891.8,662.4 893.7,662.4 893.7,602.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '893.7,602.1 893.7,662.4 895.6,662.4 895.6,599.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '895.6,599.4 895.6,662.4 897.5,662.4 897.5,597.0 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '897.5,597.0 897.5,662.4 899.4,662.4 899.4,594.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '899.4,594.8 899.4,662.4 901.3,662.4 901.3,593.1 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '901.3,593.1 901.3,662.4 903.2,662.4 903.2,591.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '903.2,591.6 903.2,662.4 905.1,662.4 905.1,590.6 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '905.1,590.6 905.1,662.4 907.0,662.4 907.0,589.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '907.0,589.8 907.0,662.4 908.9,662.4 908.9,589.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '908.9,589.5 908.9,662.4 910.8,662.4 910.8,589.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '910.8,589.5 910.8,662.4 912.7,662.4 912.7,589.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '912.7,589.8 912.7,662.4 914.6,662.4 914.6,590.4 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '914.6,590.4 914.6,662.4 916.5,662.4 916.5,591.3 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '916.5,591.3 916.5,662.4 918.4,662.4 918.4,592.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '918.4,592.5 918.4,662.4 920.3,662.4 920.3,593.9 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '920.3,593.9 920.3,662.4 922.2,662.4 922.2,595.5 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '922.2,595.5 922.2,662.4 924.1,662.4 924.1,597.2 '/>
+	</g>
+</g>
+	</g>
+	<g id="gnuplot_plot_3" ><title>gnuplot_plot_3</title>
+<g style="fill:none; color:white; stroke:rgb( 31, 120, 180); stroke-width:2.00; stroke-linecap:butt; stroke-linejoin:miter">
+</g>
+<g style="fill:none; color:green; stroke:currentColor; stroke-width:2.00; stroke-linecap:butt; stroke-linejoin:miter">
+	<g transform="translate(1089.0,103.6)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:start">
+		<text>Point estimate</text>
+	</g>
+	<path stroke='rgb( 31, 120, 180)' stroke-dasharray=' 5,8'  d='M1038.5,99.1 L1080.7,99.1 M383.1,662.4 L383.1,441.3  h0.01'/></g>
+	</g>
+<g style="fill:none; color:white; stroke:rgb( 31, 120, 180); stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
+</g>
+<g style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
+	<path stroke='black'  d='M63.6,54.1 L63.6,662.4 L1013.6,662.4 L1013.6,54.1 L63.6,54.1 Z  h0.01'/></g>
+</g>
+</svg>
+
