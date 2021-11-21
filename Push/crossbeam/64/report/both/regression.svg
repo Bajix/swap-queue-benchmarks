@@ -165,14 +165,14 @@
 	<g id="gnuplot_plot_1" ><title>gnuplot_plot_1</title>
 <g style="fill:none; color:red; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<g style = 'stroke:none; shape-rendering:crispEdges'>
-		<polygon fill = 'rgb(227,  26,  28)' fill-opacity = '0.250000' points = '63.6,662.4 63.6,662.4 1202.9,81.0 1202.9,86.1 '/>
+		<polygon fill = 'rgb(227,  26,  28)' fill-opacity = '0.250000' points = '63.6,662.4 63.6,662.4 1210.3,77.2 1210.3,82.4 '/>
 	</g>
 </g>
 	</g>
 	<g id="gnuplot_plot_2" ><title>gnuplot_plot_2</title>
 <g style="fill:none; color:green; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<g style = 'stroke:none; shape-rendering:crispEdges'>
-		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '63.6,662.4 63.6,662.4 1202.9,61.4 1202.9,63.8 '/>
+		<polygon fill = 'rgb( 31, 120, 180)' fill-opacity = '0.250000' points = '63.6,662.4 63.6,662.4 1210.3,60.0 1210.3,62.6 '/>
 	</g>
 </g>
 	</g>
@@ -183,14 +183,14 @@
 	<g transform="translate(130.7,76.6)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:start">
 		<text>Base sample</text>
 	</g>
-	<path stroke='rgb(227,  26,  28)'  d='M80.2,72.1 L122.4,72.1 M63.6,662.4 L1202.9,83.6  h0.01'/></g>
+	<path stroke='rgb(227,  26,  28)'  d='M80.2,72.1 L122.4,72.1 M63.6,662.4 L1210.3,79.8  h0.01'/></g>
 	</g>
 	<g id="gnuplot_plot_4" ><title>gnuplot_plot_4</title>
 <g style="fill:none; color:red; stroke:currentColor; stroke-width:2.00; stroke-linecap:butt; stroke-linejoin:miter">
 	<g transform="translate(130.7,94.6)" style="stroke:none; fill:black; font-family:Helvetica; font-size:12.00pt; text-anchor:start">
 		<text>New sample</text>
 	</g>
-	<path stroke='rgb( 31, 120, 180)'  d='M80.2,90.1 L122.4,90.1 M63.6,662.4 L1202.9,62.4  h0.01'/></g>
+	<path stroke='rgb( 31, 120, 180)'  d='M80.2,90.1 L122.4,90.1 M63.6,662.4 L1210.3,61.2  h0.01'/></g>
 	</g>
 <g style="fill:none; color:white; stroke:rgb( 31, 120, 180); stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter">
 </g>
